@@ -10,6 +10,8 @@ If you set your toollenght/nozzlelenght you can split the layers into passes whi
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/G4OjYKChAd8/0.jpg)](https://www.youtube.com/watch?v=G4OjYKChAd8)
 
+If you want to support projects like this you could do that here: https://www.patreon.com/c/TenTech
+
 
 Use the script inside your slicer in the postprocessing script:
 ```"C:\pathToPython\python.exe" "C:\pathToScript\nonplanarironing.py" -argument xy -argument xy```
